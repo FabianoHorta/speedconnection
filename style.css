@@ -7,8 +7,6 @@ body {
   width: 80%;
   margin-left: 10%;
 }
-.mainContainer {
-}
 
 h1 {
   padding: 50px;
@@ -16,8 +14,6 @@ h1 {
   color: white;
 }
 
-#fontHeader {
-}
 
 .single-price {
   text-align: center;
